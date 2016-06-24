@@ -1,0 +1,17 @@
+---
+driver:
+  name: vagrant
+
+provisioner:
+  name: puppet_apply
+  manifests_path: test/integration
+  custom_options:
+    - '--debug'
+
+platforms:
+  - name: centos-7.2
+
+suites:
+  - name: default
+    provisioner:
+      manifest: default/init.pp
