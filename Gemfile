@@ -9,4 +9,5 @@ group :development do
   gem 'kitchen-puppet'
   gem 'kitchen-vagrant'
   gem 'vagrant'
+  gem 'puppetlabs_spec_helper'
 end
