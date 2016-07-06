@@ -1,2 +1,3 @@
+# declaring class
 class { 'abcdef':
 }
