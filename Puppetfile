@@ -11,6 +11,7 @@ metadata
 
 # A module from the Puppet Forge
 # mod 'puppetlabs-stdlib'
+mod 'puppetlabs-stdlib'
 
 # A module from git
 # mod 'puppetlabs-ntp',
