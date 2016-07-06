@@ -8,6 +8,9 @@ provisioner:
   custom_options:
     - '--debug'
 
+transport:
+  name: sftp
+
 platforms:
   - name: centos-7.2
 
