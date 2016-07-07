@@ -1,8 +1,8 @@
 {
   "name": "abcdef",
   "version": "0.0.3",
-  "source": "",
-  "author": "",
+  "source": "https://github.com/agrigoriev-talend/probable-octo-disco",
+  "author": "agrigoriev-talend",
   "license": "MIT",
   "summary": "No summary",
   "dependencies": [
